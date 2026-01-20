@@ -42,4 +42,4 @@ O site se adapta a diferentes tamanhos de tela (desktop, tablet e mobile), garan
 📁 **Repositório:** https://github.com/isaac-ikawa/Site-de-Portfolio-Front-end-v2.1.7
 
 ---
-Desenvolvido por **Isaac Ikawa** 👨‍💻
+Desenvolvido por **Isaac Ikawa** 😎
